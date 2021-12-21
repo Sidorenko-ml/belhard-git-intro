@@ -7,3 +7,4 @@ b = 5
 print(a+b)
 c = 8
 c = 8
+print("Hi")
